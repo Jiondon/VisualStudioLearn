@@ -1,0 +1,15 @@
+﻿生成启动时间为 2019/4/15 15:12:08。
+     1>项目“E:\VS\WP_Test1111\WP_Test1111\WP_Test1111.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>e:\vs\wp_test1111\wp_test1111\main.cpp(6): error C3861: “Roseek_MainCore_Init”:  找不到标识符
+     1>e:\vs\wp_test1111\wp_test1111\main.cpp(8): error C3861: “Roseek_MainCore_SetLogLevel”:  找不到标识符
+     1>e:\vs\wp_test1111\wp_test1111\main.cpp(11): error C3861: “Roseek_ImageAcquisition_Start”:  找不到标识符
+     1>e:\vs\wp_test1111\wp_test1111\main.cpp(15): error C2065: “IA_WorkMode_ContinuousFrame”: 未声明的标识符
+     1>e:\vs\wp_test1111\wp_test1111\main.cpp(15): error C3861: “Roseek_ImageAcquisition_SetWorkMode”:  找不到标识符
+     1>已完成生成项目“E:\VS\WP_Test1111\WP_Test1111\WP_Test1111.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:02.41

@@ -1,0 +1,165 @@
+The system is: Windows - 6.1.7601 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft(R) ��������汾 12.0.40629.0
+[Microsoft .NET Framework �汾 4.0.30319.42000]
+��Ȩ���� (C) Microsoft Corporation����������Ȩ����
+
+��������ʱ��Ϊ 2019/2/19 10:05:18��
+�ڵ� 1 �ϵ���Ŀ��E:\VS\glfw-3.2.1\build\CMakeFiles\3.13.3\CompilerIdC\CompilerIdC.vcxproj��(Ĭ��Ŀ��)��
+PrepareForBuild:
+  ���ڴ���Ŀ¼��Debug\����
+  ���ڴ���Ŀ¼��Debug\CompilerIdC.tlog\����
+InitializeBuildStatus:
+  ���ڴ�����Debug\CompilerIdC.tlog\unsuccessfulbuild������Ϊ��ָ����AlwaysCreate����
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> E:\VS\glfw-3.2.1\build\CMakeFiles\3.13.3\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\cl.exe
+FinalizeBuildStatus:
+  ����ɾ���ļ���Debug\CompilerIdC.tlog\unsuccessfulbuild����
+  ���ڶԡ�Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate��ִ�� Touch ����
+�����������Ŀ��E:\VS\glfw-3.2.1\build\CMakeFiles\3.13.3\CompilerIdC\CompilerIdC.vcxproj��(Ĭ��Ŀ��)�Ĳ�����
+
+�ѳɹ����ɡ�
+    0 ������
+    0 ������
+
+����ʱ�� 00:00:01.76
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "E:/VS/glfw-3.2.1/build/CMakeFiles/3.13.3/CompilerIdC/CompilerIdC.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: E:/VS/glfw-3.2.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_ef9f3.vcxproj" "/p:Configuration=Debug" "/p:Platform=Win32" "/p:VisualStudioVersion=12.0"
+Microsoft(R) 生成引擎版本 12.0.40629.0
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2019/2/19 10:05:20。
+节点 1 上的项目“E:\VS\glfw-3.2.1\build\CMakeFiles\CMakeTmp\cmTC_ef9f3.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_ef9f3.dir\Debug\”。
+  正在创建目录“E:\VS\glfw-3.2.1\build\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_ef9f3.dir\Debug\cmTC_ef9f3.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_ef9f3.dir\Debug\cmTC_ef9f3.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_ef9f3.dir\Debug\\" /Fd"cmTC_ef9f3.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "E:\VS\glfw-3.2.1\build\CMakeFiles\CMakeTmp\testCCompiler.c"
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 18.00.40629 版版权所有(C) Microsoft Corporation。  保留所有权利。
+  
+  testCCompiler.c
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_ef9f3.dir\Debug\\" /Fd"cmTC_ef9f3.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "E:\VS\glfw-3.2.1\build\CMakeFiles\CMakeTmp\testCCompiler.c"
+  
+Link:
+  D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"E:\VS\glfw-3.2.1\build\CMakeFiles\CMakeTmp\Debug\cmTC_ef9f3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/VS/glfw-3.2.1/build/CMakeFiles/CMakeTmp/Debug/cmTC_ef9f3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/VS/glfw-3.2.1/build/CMakeFiles/CMakeTmp/Debug/cmTC_ef9f3.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_ef9f3.dir\Debug\testCCompiler.obj
+  cmTC_ef9f3.vcxproj -> E:\VS\glfw-3.2.1\build\CMakeFiles\CMakeTmp\Debug\cmTC_ef9f3.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_ef9f3.dir\Debug\cmTC_ef9f3.tlog\unsuccessfulbuild”。
+  正在对“cmTC_ef9f3.dir\Debug\cmTC_ef9f3.tlog\cmTC_ef9f3.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\VS\glfw-3.2.1\build\CMakeFiles\CMakeTmp\cmTC_ef9f3.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.85
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: E:/VS/glfw-3.2.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_52b3c.vcxproj" "/p:Configuration=Debug" "/p:Platform=Win32" "/p:VisualStudioVersion=12.0"
+Microsoft(R) 生成引擎版本 12.0.40629.0
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2019/2/19 10:05:23。
+节点 1 上的项目“E:\VS\glfw-3.2.1\build\CMakeFiles\CMakeTmp\cmTC_52b3c.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_52b3c.dir\Debug\”。
+  正在创建目录“E:\VS\glfw-3.2.1\build\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_52b3c.dir\Debug\cmTC_52b3c.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_52b3c.dir\Debug\cmTC_52b3c.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_52b3c.dir\Debug\\" /Fd"cmTC_52b3c.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Administrator\Downloads\cmake-3.13.3-win64-x64\share\cmake-3.13\Modules\CMakeCCompilerABI.c"
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 18.00.40629 版版权所有(C) Microsoft Corporation。  保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_52b3c.dir\Debug\\" /Fd"cmTC_52b3c.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\Administrator\Downloads\cmake-3.13.3-win64-x64\share\cmake-3.13\Modules\CMakeCCompilerABI.c"
+  
+  CMakeCCompilerABI.c
+Link:
+  D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"E:\VS\glfw-3.2.1\build\CMakeFiles\CMakeTmp\Debug\cmTC_52b3c.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/VS/glfw-3.2.1/build/CMakeFiles/CMakeTmp/Debug/cmTC_52b3c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/VS/glfw-3.2.1/build/CMakeFiles/CMakeTmp/Debug/cmTC_52b3c.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_52b3c.dir\Debug\CMakeCCompilerABI.obj
+  cmTC_52b3c.vcxproj -> E:\VS\glfw-3.2.1\build\CMakeFiles\CMakeTmp\Debug\cmTC_52b3c.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_52b3c.dir\Debug\cmTC_52b3c.tlog\unsuccessfulbuild”。
+  正在对“cmTC_52b3c.dir\Debug\cmTC_52b3c.tlog\cmTC_52b3c.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\VS\glfw-3.2.1\build\CMakeFiles\CMakeTmp\cmTC_52b3c.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:00.89
+
+
+
+
+Detecting C [] compiler features compiled with the following output:
+Change Dir: E:/VS/glfw-3.2.1/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_e18b8.vcxproj" "/p:Configuration=Debug" "/p:Platform=Win32" "/p:VisualStudioVersion=12.0"
+Microsoft(R) 生成引擎版本 12.0.40629.0
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2019/2/19 10:05:24。
+节点 1 上的项目“E:\VS\glfw-3.2.1\build\CMakeFiles\CMakeTmp\cmTC_e18b8.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_e18b8.dir\Debug\”。
+  正在创建目录“E:\VS\glfw-3.2.1\build\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_e18b8.dir\Debug\cmTC_e18b8.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_e18b8.dir\Debug\cmTC_e18b8.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_e18b8.dir\Debug\\" /Fd"cmTC_e18b8.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "E:\VS\glfw-3.2.1\build\CMakeFiles\feature_tests.c"
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 18.00.40629 版版权所有(C) Microsoft Corporation。  保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_e18b8.dir\Debug\\" /Fd"cmTC_e18b8.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:queue "E:\VS\glfw-3.2.1\build\CMakeFiles\feature_tests.c"
+  
+  feature_tests.c
+Link:
+  D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"E:\VS\glfw-3.2.1\build\CMakeFiles\CMakeTmp\Debug\cmTC_e18b8.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/VS/glfw-3.2.1/build/CMakeFiles/CMakeTmp/Debug/cmTC_e18b8.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/VS/glfw-3.2.1/build/CMakeFiles/CMakeTmp/Debug/cmTC_e18b8.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_e18b8.dir\Debug\feature_tests.obj
+  cmTC_e18b8.vcxproj -> E:\VS\glfw-3.2.1\build\CMakeFiles\CMakeTmp\Debug\cmTC_e18b8.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_e18b8.dir\Debug\cmTC_e18b8.tlog\unsuccessfulbuild”。
+  正在对“cmTC_e18b8.dir\Debug\cmTC_e18b8.tlog\cmTC_e18b8.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\VS\glfw-3.2.1\build\CMakeFiles\CMakeTmp\cmTC_e18b8.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:00.79
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_variadic_macros

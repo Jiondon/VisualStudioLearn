@@ -1,0 +1,23 @@
+﻿生成启动时间为 2019/3/25 13:59:30。
+     1>项目“E:\VS\Project_Color\Project_Color\Project_Color.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>e:\vs\project_color\project_color\main.cpp(153): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\vs\project_color\project_color\main.cpp(247): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\vs\project_color\project_color\main.cpp(248): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\vs\project_color\project_color\main.cpp(252): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\vs\project_color\project_color\main.cpp(253): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>e:\vs\project_color\project_color\main.cpp(255): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\vs\project_color\project_color\main.cpp(256): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\vs\project_color\project_color\main.cpp(265): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\VS\Project_Color\Debug\Project_Color.exe" /INCREMENTAL /NOLOGO glfw3.lib opengl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\VS\Project_Color\Debug\Project_Color.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\VS\Project_Color\Debug\Project_Color.lib" /MACHINE:X86 Debug\glad.obj
+         Debug\main.obj
+         Debug\std_image.obj
+         Project_Color.vcxproj -> E:\VS\Project_Color\Debug\Project_Color.exe
+     1>已完成生成项目“E:\VS\Project_Color\Project_Color\Project_Color.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.16

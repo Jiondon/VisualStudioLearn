@@ -1,0 +1,13 @@
+﻿生成启动时间为 2019/4/15 16:35:00。
+     1>项目“E:\VS\WP_Test1111\WP_Test1111\WP_Test1111.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\VS\WP_Test1111\x64\Debug\WP_Test1111.exe" /INCREMENTAL /NOLOGO CTMedia.lib CTOSD.lib CTStream.lib RSJpegUtil.lib RSMediaRender.lib RSYuvUtil.lib WPMainCore.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\VS\WP_Test1111\x64\Debug\WP_Test1111.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\VS\WP_Test1111\x64\Debug\WP_Test1111.lib" /MACHINE:X64 x64\Debug\main.obj
+         WP_Test1111.vcxproj -> E:\VS\WP_Test1111\x64\Debug\WP_Test1111.exe
+     1>已完成生成项目“E:\VS\WP_Test1111\WP_Test1111\WP_Test1111.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.98
